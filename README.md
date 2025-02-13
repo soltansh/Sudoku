@@ -1,6 +1,6 @@
 # Sudoku Game
 
-A simple Sudoku game implemented in Python using the `tkinter` library.
+A simple Sudoku game implemented in Python using the tkinter library.
 
 ## Features
 
@@ -12,9 +12,15 @@ A simple Sudoku game implemented in Python using the `tkinter` library.
 ## Installation
 
 1. Clone the repository:
-    ```sh
+    
     git clone https://github.com/soltansh/Sudoku.git
-    ```
+    
+    
+2. Navigate to the project directory:
+    
+
+    cd Sudoku
+    
 
 ## Usage
 
