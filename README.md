@@ -13,19 +13,11 @@ A simple Sudoku game implemented in Python using the `tkinter` library.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/sudoku-game.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd sudoku-game
-    ```
-3. Install the required libraries:
-    ```sh
-    pip install -r requirements.txt
+    git clone https://github.com/soltansh/Sudoku.git
     ```
 
 ## Usage
 
 Run the Sudoku game by executing the following command:
 ```sh
-python sudoku.py
+python main.py
